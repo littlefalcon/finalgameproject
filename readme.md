@@ -1,4 +1,7 @@
 # Doing List
+* Create Own FPC Blueprint
+* Create New Game Mode BP for select FPCBP to spawn player
+# TODO List
 * Make Readme
 * Refactor Shooting System
 # Current Game Engine System
